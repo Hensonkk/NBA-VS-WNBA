@@ -17,46 +17,46 @@ Base question: Why is the NBA more successful than the WNBA?
 
 NBA Teams
 
-Atlanta Hawks
+-Atlanta Hawks
 
-Chicago Bulls
+-Chicago Bulls
 
-Dallas Mavericks
+-Dallas Mavericks
 
-Golden State Warriors
+-Golden State Warriors
 
-Indiana Pacers
+-Indiana Pacers
 
-Los Angeles Lakers
+-Los Angeles Lakers
 
-Minnesota Timberwolves
+-Minnesota Timberwolves
 
-New York Knicks
+-New York Knicks
 
-Oklahoma City Thunder
+-Oklahoma City Thunder
 
-Phoenix Suns
+-Phoenix Suns
 
 
 WNBA Teams
 
-Atlanta Dream
+-Atlanta Dream
 
-Chicago Sky
+-Chicago Sky
 
-Dallas Wings
+-Dallas Wings
 
-Indiana Fever
+-Indiana Fever
 
-Los Angeles Sparks
+-Los Angeles Sparks
 
-Las Vegas Aces
+-Las Vegas Aces
 
-Minnesota Lynx
+-Minnesota Lynx
 
-New York Liberty
+-New York Liberty
 
-Phoenix Mercury
+-Phoenix Mercury
 
-Seattle Storm
+-Seattle Storm
 
