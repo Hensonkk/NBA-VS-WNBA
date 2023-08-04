@@ -33,9 +33,9 @@ NBA Teams
 
 -New York Knicks
 
--Oklahoma City Thunder
-
 -Phoenix Suns
+
+-Oklahoma City Thunder
 
 
 WNBA Teams
