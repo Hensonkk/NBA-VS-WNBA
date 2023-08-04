@@ -33,9 +33,9 @@ NBA Teams
 
 -New York Knicks
 
--Phoenix Suns
-
 -Oklahoma City Thunder
+
+-Phoenix Suns
 
 
 
