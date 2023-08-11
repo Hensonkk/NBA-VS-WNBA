@@ -1,6 +1,6 @@
-Year,Date,Attendance,Location,Opponent,Team,,,,,,
-2023,11-Jun,2890,Gateway Center Arena,Conneticut Sun,Atlanta Dreams,,,,,,
-2023,26-May,3209,Gateway Center Arena,Indiana Fever,Atlanta Dreams,,Sellout,,,,
+Year,Date,Attendance,Location,Opponent,Team,Venue Capacity,,,,,
+2023,11-Jun,2890,Gateway Center Arena,Conneticut Sun,Atlanta Dreams,17071,,,,,
+2023,26-May,3209,Gateway Center Arena,Indiana Fever,Atlanta Dreams,17071,Sellout,,,,
 2023,30-May,5594,College Park Center,Dallas Wings,Atlanta Dreams,10000,,,,Gateway Center Arena,3209
 2023,13-Jun,5719,Barclaye Center,New York Liberty,Atlanta Dreams,10000,,,,College Park Center,7700
 2023,9-Jun,3209,Gateway Center Arena,New York Liberty,Atlanta Dreams,17071,Sellout,,,Barclaye Center,17732
