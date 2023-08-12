@@ -1,4 +1,4 @@
-Season,Team ,Name, Salary , Incentative 
+Year,Team ,Player, Salary , Incentative 
 2023,Atlanta Hawk,Trae Young,"$40,064,220.00 ",
 2023,Atlanta Hawk,Clint Capela,"$20,616,000.00 ","$2,000,000.00 "
 2023,Atlanta Hawk,De'Andre Hunter,"$20,089,286.00 ",
@@ -88,7 +88,7 @@ Season,Team ,Name, Salary , Incentative
 2022,New York Knicks,Julius Randle,"$23,760,000.00 ",
 2022,New York Knicks,Evan Fournier,"$18,000,000.00 ",
 2022,New York Knicks,Mitchell Robinson,"$17,045,454.00 ",
-2022,New York Knicks,Derrick Rose,"$14,520.00 ",
+2022,New York Knicks,Derrick Rose,"$14,520,730.00 ",
 2022,OK City Thunder,Shai Gilgeous-Alexander,"$30,913,750.00 ",
 2022,OK City Thunder,Luguentz Dort,"$15,277,778.00 ",
 2022,OK City Thunder,Chet Holmgren,"$9,891,240.00 ",
@@ -145,7 +145,7 @@ Season,Team ,Name, Salary , Incentative
 2021,OK City Thunder,Mike Muscala,"$3,500,000.00 ",
 2021,OK City Thunder,Aleksej Pokusevski,"$3,113,160.00 ",
 2021,Phoenix Suns,Devin Booker,"$31,650,600.00 ",
-2021,Phoenix Suns,Chris Paul," $30,800,000.00 ",
+2021,Phoenix Suns,Chris Paul,"$30,800,000.00 ",
 2021,Phoenix Suns,Deandre Ayton,"$12,632,950.00 ",
 2021,Phoenix Suns,Jae Crowder,"$9,720,900.00 ",
 2021,Phoenix Suns,Dario Saric,"$8,510,000.00 ",
