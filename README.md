@@ -36,7 +36,7 @@ Much of the NBA data was found on the NBA official website, ESPN, or the team we
 
 
 ### Viewership/Attendance
-Information on the average attendance for NBA home games and away games are organized on the ESPN website, so a dataset was created using those numbers. Since that does not exist for the WNBA, attendance numbers were pulled from the game notes of individual teams' websites. Not all teams provide game notes, and not all of those notes provide the same information, so the resulting dataset wasn't as complete as the NBA data.
+Information on the average attendance for NBA home games and away games are organized on the ESPN website, so a dataset was created using those numbers. Since that does not exist for the WNBA, attendance numbers were pulled from the game notes of individual teams' websites (hosted by the WNBA website). Not all teams provide game notes, and not all of those notes provide the same information, so the resulting dataset wasn't as complete as the NBA data.
 
 Since the datasets were not formed by an outside party, there was very little cleaning to do, however rows were sometimes dropped if they did not contain pertinent information.
 
