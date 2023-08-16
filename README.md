@@ -41,8 +41,9 @@ Information on the average attendance for NBA home games and away games are orga
 Since the datasets were not formed by an outside party, there was very little cleaning to do, however rows were sometimes dropped if they did not contain pertinent information.
 
 ### Sponsorship
+Sponsorship information for NBA and WNBA teams is focused on the sponsorship gained from arena naming rights to more easily quantify the data. Because this information is not readily available to the public from a single source, a dataset was created for the data gathered across multiple sites. Not all sites contained the amount paid for the sponsorships, or were missing parts of other relevant data pertaining to the sponsorship in question. This made the resulting dataset not as complete as it could be if the information was readily available.
 
-
+Since the datasets were formed by a outside party, much cleaning had to be done. However, rows were still dropped due to the aformentioned missing data.
 ### Salaries
 
 
