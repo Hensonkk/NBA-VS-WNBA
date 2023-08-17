@@ -31,8 +31,10 @@ WNBA Teams: Atlanta Dream, Chicago Sky, Dallas Wings, Indiana Fever, Los Angeles
 Much of the NBA data was found on the NBA official website, ESPN, or the team websites, however information was much harder to find for the WNBA so many of us collected our own data from other sources.
 
 ### Player Stats
+Infromation on player statistics for NBA & WNBA teams were gathered from NBA.com and WNBA.com. We created datasets using the statistics from 2019-2023 of 10 teams and their starting 5 or their 5 best players. Teams were decided by cities with both NBA and WNBA teams. Datasets were then cleaned and reorganized based apon different avenues of how we wanted to analyze the data. 
 
 ### Sales/Marketing
+Information for sales and marketing were not publicly available and easily accessible. We generated the data by finding sources that expressed the revenues and marketing of both the NBA and WNBA. Limited amount of information about those were available online so we worked with what little data we could find. Created our own datasets and then manipulated the data to analyze. 
 
 
 ### Viewership/Attendance
