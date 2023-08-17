@@ -55,7 +55,7 @@ Although the salary information and resulting graphs provided a clear picture of
 ### Player Contracts
 The contract information was gathered from multiple sources: ESPN.com, NBA.com, WNBA.com, Spotrac.com and various articles. Please see references. I made the files in the Contract folder which includes all csvs, Excel documents and Jupyter notebook workbook. I also found half of the statistics used in the NBA and WNBA player stats for 2021-2023. The imports I used were: matplotlib.pyplot, pandas, numpy, scipy.stats.  Much of the information I found focused on the player's salary and statistics. For my bar chart analysis, I looked at the top 5 Rookie season contracts for 2023 and the top 5 Max contracts for 2022-2023 for each league. For my regression lines, I analyzed data from 50 players who had the largest salaries in each league. The data I examined for both leagues was points per game vs base salaries and steals per game vs base salaries. I wanted to do more analysis, but I was running out of time and some of the data that I needed was not available. I found stronger correlations with the women's regressions. I will continue to work on this project and see how I can improve. 
 
-###Additional Explanations
+## Additional Explanations
 Player Statistics​
 
 WNBA games are 8 mins shorter than NBA games​
@@ -96,7 +96,7 @@ WNBA started fund raising in order to help increase revenue
 
 
 
-###Major Findings
+## Major Findings
 Player Statistics​
 
 Top WNBA players perform just as well as top NBA players, and some perform better​
@@ -134,7 +134,7 @@ WNBA is expected to have ~$200 million in revenue this year, more than 3x their 
 
 
 
-###Limitations and Future Development
+## Limitations and Future Development
 Player Statistics​
 
 Difference in season length and game length creates an uneven statistical comparison​
@@ -176,7 +176,7 @@ Lack of data for WNBA teams and their individual revenue and operating cost
 
 
 
-###References 
+## References 
 ​
 
 https://www.espn.com/​
