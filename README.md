@@ -46,8 +46,11 @@ Since the datasets were not formed by an outside party, there was very little cl
 Sponsorship information for NBA and WNBA teams is focused on the sponsorship gained from arena naming rights to more easily quantify the data. Because this information is not readily available to the public from a single source, a dataset was created for the data gathered across multiple sites. Not all sites contained the amount paid for the sponsorships, or were missing parts of other relevant data pertaining to the sponsorship in question. This made the resulting dataset not as complete as it could be if the information was readily available.
 
 Since the datasets were formed by a outside party, much cleaning had to be done. However, rows were still dropped due to the aformentioned missing data.
-### Salaries
 
+### Salaries
+Salary information for the NBA was gathered from NBA official website, however WNBA salary information was easier to access from spotrac.com. Two different csv files were created, one to hold NBA Salary information and another for the WNBA salary information. Each file included the top 5 best paid players for 10 different teams from the years 2019 - 2023. In order to analyze the top 10 best paid players, data cleaning had to be done to drop duplicates since those players repeat constantly. 
+
+Although the salary information and resulting graphs provided a clear picture of the discrepancy between NBA's players' salaries and WNBA's players' salaries, a greater sample data including the least paid players would present accurate results. 
 
 ### Player Contracts
 
