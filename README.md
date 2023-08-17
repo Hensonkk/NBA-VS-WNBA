@@ -53,4 +53,162 @@ Salary information for the NBA was gathered from NBA official website, however W
 Although the salary information and resulting graphs provided a clear picture of the discrepancy between NBA's players' salaries and WNBA's players' salaries, a greater sample data including the least paid players would present accurate results. 
 
 ### Player Contracts
+The ontract information was gathered from multiple sources: ESPN.com, NBA.com, WNBA.com, Spotrac.com and various articles. Please see references. I made the files in the Contract folder which includes all csvs, Excel documents and Jupyter notebook workbook. I also found half of the statistics used in the NBA and WNBA player stats for 2021-2023. The imports I used were: matplotlib.pyplot, pandas, numpy, scipy.stats.  Much of the information I found focused on the player's salary and statistics. For my bar chart analysis, I looked at the top 5 Rookie season contracts for 2023 and the top 5 Max contracts for 2022-2023 for each league. For my regression lines, I analyzed data from the players who had the largest salaries in each league. The data I examined for both were points per game vs base salaries and steals per game vs base salaries. I wanted to do more analysis, but I was running out of time and some of the data that I needed was not available. I found stronger correlations with the women's regressions. I will continue to work on this project and see how I can improve. 
 
+###Additional Explanations
+Player Statistics​
+
+WNBA games are 8 mins shorter than NBA games​
+
+NBA season is twice as long as WNBA season​
+
+30 NBA teams, but only 12 WNBA teams​
+
+Attendance​
+
+When not using the same venues, WNBA venues have a much smaller capacity so there is less rooms for fans to begin with​
+
+Sponsorships​
+
+WNBA’s Minnesota Lynx & Minnesota Timberwolves Target sponsorship has a 3-5 year annual renewal. It’s the longest running naming rights contract between a sponsor and team, having started in 1990.​
+
+Barclays Bank WNBA’s NY Liberty was renegotiated from $400 million to $200 million in aftermath of the 2008 market crash.​
+
+Player Contracts​
+
+An NBA player makes between $60K and $175K on a 10 day contract. On a 7 day contract WNBA players make up to $62,825​
+
+Average age in the NBA is between 20-25, while in the WNBA it is 27​
+
+Average career length in the NBA is 4.5 years; in the WNBA it is 3.5 years​
+
+Sales & Marketing​
+
+NBA is 77 years old, WNBA is 27 years old​
+
+NBA owned the whole WNBA until 2002​
+
+NBA owns 50% of WNBA, other 50% is owned by the 12 WNBA teams​
+
+50% of NBA revenue is shared with teams & players, 20% of WNBA revenue is shared with teams and players​
+
+WNBA started fund raising in order to help increase revenue
+
+
+
+###Major Findings
+Player Statistics​
+
+Top WNBA players perform just as well as top NBA players, and some perform better​
+
+NBA teams outperform WNBA teams in almost every statistical metric​
+
+Attendance​
+
+WNBA attendance is generally lower and less predictable than NBA attendance​
+
+Sponsorships​
+
+2021 is the year that new naming rights sponsorships for the NBA and WNBA began the most​
+
+The New York Knicks is one of the three(?) remaining teams without a stadium name sponsor in the NBA​
+
+Player Contracts​
+
+WNBA player salaries are limited by a far lower team salary than when compared to the NBA​
+
+NBA players have better base salaries than WNBA players, despite some WNBA players performing better in certain metrics​
+
+Years of experience make a significant impact on salary in both leagues​
+
+Sales & Marketing​
+
+WNBA is subsidized by NBA. The NBA sponsors the WNBA with ~$15 million dollars/year​
+
+WNBA has never made a profit, looses ~$10 million on average​
+
+WNBA players opted out of their CBA (Collective Bargaining Agreement) early because they want full transparency of league financials​
+
+WNBA is expected to have ~$200 million in revenue this year, more than 3x their average revenue
+
+
+
+
+###Limitations and Future Development
+Player Statistics​
+
+Difference in season length and game length creates an uneven statistical comparison​
+
+Uneven number of teams and players between the NBA and WNBA (NBA has 15 roster spots, WNBA has 12 roster spots)​
+
+Attendance​
+
+Lack of accessible datasets for WNBA, uneven reporting by teams​
+
+Lack of centralized viewership data​
+
+Sponsorships​
+
+Lack of publicly available NBA & WNBA financial breakdowns​
+
+Only found ranges and estimates of sponsorship costs, no concrete data​
+
+Salaries​
+
+Some players were traded within the season making it hard to find a complete roster for the season and changing the player's salary​
+
+Player Contracts​
+
+Unable to find and read actual player contracts. Limited to generally known information and statistics​
+
+Lack of data on certain players. Possibly due to injuries, travel, hardships, personal matters, etc.​
+
+Multiple sources of information with similar or different sets of data​
+
+Sales & Marketing​
+
+Lack of publicly available NBA & WNBA revenue and financial breakdowns​
+
+Can only find averages for WNBA revenue breakdowns, no real concrete data​
+
+Lack of data for WNBA teams and their individual revenue and operating cost
+
+
+
+
+###References 
+​
+
+https://www.espn.com/​
+
+https://www.statista.com/​
+
+https://www.sportsmediawatch.com/2013/03/espn-wnba-reach-new-10-year-rights-deal/​
+
+https://www.forbes.com/?sh=7c3b2c992254​
+
+www.spotrac.com​
+
+https://www.forbes.com/sites/justinbirnbaum/2023/06/22/2023-nba-draft-projected-contracts-for-victor-wembanyama-and-other-first-round-picks/?sh=7ca731f43a34 ​
+
+WNBA CBA and Salary Cap Explained | Statistics, Ranks, Game Logs and more Women's Basketball Insight from Her Hoop Stats​
+
+WNBA Salary Cap 2023: What You Need to Know - Boardroom​
+
+WNBA's new labor deal hikes average salary to $130,000, provides paid maternity leave - CBS News​
+
+WNBA news: Takeaways from the WNBA salary database (highposthoops.com)​
+
+2023 NBA salary cap tracker by team: From healthy to disastrous (sportsnaut.com)​
+
+NBA Minimum Salaries For 2023/24 | Hoops Rumors​
+
+Salary cap set at $112.4 million for 2021-22 season | NBA.com​
+
+NBA Salary Cap set at $109.14 million for 2019-20 | NBA.com​
+
+2023 NBA 10-day contract explained: How it works and salary limits | Marca​
+
+https://www.nba.com/​
+
+https://www.wnba.com/
